@@ -1,0 +1,6 @@
+framework module Pods_ShellAssignment {
+  umbrella header "Pods-ShellAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
